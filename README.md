@@ -1,2 +1,2 @@
 # SeverenceRoom-ThreeJS
-Mock Severence room using ThreeJS
+Severence room layout using ThreeJS
